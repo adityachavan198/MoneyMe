@@ -83,7 +83,7 @@ DATABASES = {
         'NAME': 'Money',
         'USER': 'root',
         'PASSWORD': '',
-        'HOST': '127.0.0.1',
+        'HOST': 'localhost',
         'PORT': '' ,
     }
 }
